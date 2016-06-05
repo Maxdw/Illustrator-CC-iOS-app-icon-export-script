@@ -40,7 +40,7 @@ var AppIconResizeClass = function(name, sizes) {
             directive.filename = name + "." + size.idiom + size.size + "@" + size.scale + "." + ext;
         }
         else {
-            directive.filename = "unknownscale" + ext;
+            directive.filename = "unknownscale." + ext;
         }
 
         return directive;

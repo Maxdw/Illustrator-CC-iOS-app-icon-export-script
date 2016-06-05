@@ -8,7 +8,7 @@ This script will export your active artboard to all retina and non-retina app ic
 [Download ZIP](https://github.com/Maxdw/Illustrator-CC-iOS-app-icon-export-script/archive/master.zip)
 
 ## Usage
-1. Create a square artboard of 1024x1024 pixels (also works with other sizes)
+1. Create a square artboard of 1024x1024 pixels (also works with other 1:1 sizes)
 2. Design your app icon
 3. Run app.icon.jsx in Illustrator with your app icon artboard active (shortcut ⌘+12)
 4. Select your output folder
